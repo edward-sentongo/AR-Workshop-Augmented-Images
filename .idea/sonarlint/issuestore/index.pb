@@ -1,0 +1,33 @@
+
+L
+app/src/main/assets/jedi.sfb,8/b/8b2fabe18d1cbc9b9dc45f4f5f1e6bc685f454a3
+Q
+!app/src/main/assets/amsterdam.sfb,0/5/05091b670efa5ca51b9dd8b03d35ee98538fd6db
+[
++app/sampledata/models/iron_man/iron_man.obj,c/5/c5c3075866df35836947edfb2e932858cb18f4eb
+P
+ app/src/main/assets/iron_man.sfb,8/7/871381baaf4e4650decc28d37ad087541e175b14
+ˆ
+Xapp/src/main/java/com/sentongoapps/ar_workshop_augumented_images/AugmentedImageNode.java,9/4/942061c3d665e731e2b534d57061724c2f5ecc0f
+P
+ app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
+R
+"app/src/main/res/values/colors.xml,9/6/969faa2a5d9f5e8390e958d2c07f2cfd54676e6b
+S
+#app/src/main/res/values/strings.xml,d/2/d2281fbb3027de2722081a53408dd77628bf080e
+R
+"app/src/main/res/values/styles.xml,f/7/f79cc2688e29fcbc286fda14ae07b27c9e83690f
+Y
+)app/src/main/res/layout/activity_main.xml,7/6/76b07e40f24cce093536731477540f12e7da3cb6
+Œ
+\app/src/main/java/com/sentongoapps/ar_workshop_augumented_images/helpers/SnackbarHelper.java,e/a/eacbe2a56f9deb9389add13b265d2f404357a7f0
+Ž
+^app/src/main/java/com/sentongoapps/ar_workshop_augumented_images/helpers/FullScreenHelper.java,9/0/9098eed1d11219f70ccc77ae4bac302138ede48a
+”
+dapp/src/main/java/com/sentongoapps/ar_workshop_augumented_images/helpers/CameraPermissionHelper.java,6/8/68d685096407f60462d711bd33fc3f8b1a7884bc
+@
+app/build.gradle,f/4/f4a01d6a4fcb971362ec00a83903fd3902f52164
+]
+-app/sampledata/models/amsterdam/amsterdam.sfa,b/2/b2bf20bbfab06c8ba360ff0cb8c8abbca1b58d7f
+‚
+Rapp/src/main/java/com/sentongoapps/ar_workshop_augumented_images/MainActivity.java,9/a/9ac86f064cd5fbc2ff4e01b9d37aa1568dcd9b65

@@ -1,0 +1,6 @@
+
+7squid:S3626"Remove this redundant jump.(ûÁİ…8öî®¢ú,
+gsquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(‹Åí8öî®¢ú,
+esquid:S2583"DChange this condition so that it does not always evaluate to "false"(€¡†Øıÿÿÿÿ8öî®¢ú,
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ù«µ§8öî®¢ú,
+Qsquid:S1172"0Remove this unused method parameter "frameTime".(–¸Œºúÿÿÿÿ8öî®¢ú,
