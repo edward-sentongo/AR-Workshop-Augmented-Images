@@ -9,7 +9,7 @@ In this sample app, we'll use the power of ARCore to recognized images and we'll
 1. Download the code and compile it.  
 
 2. Scan (with the camera of your phone) any image from [here](https://github.com/edward-sentongo/AR-Workshop-Augumented-Images/tree/master/ImagesToPrintOrScan), please don't scan Jedi yet :).  
-Prefferably scan images which have <strong>"final"<strong/>.   
+Prefferably scan images which have <strong>"final"</strong>.   
 
 3. Do you see the augumented image?  
 
