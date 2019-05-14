@@ -155,7 +155,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void initializeSceneView() {
-        arSceneView.getScene().setOnUpdateListener((this::onUpdateFrame));
+        arSceneView.getScene().addOnUpdateListener((this::onUpdateFrame));
     }
 
     private void onUpdateFrame(FrameTime frameTime) {
